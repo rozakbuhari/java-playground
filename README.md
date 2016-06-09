@@ -17,4 +17,4 @@ Writing code is very boring if you do not enjoy it, this is my way to enjoy writ
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/rozakbuhari/java-playground/master/LICENSE.md) file for details
